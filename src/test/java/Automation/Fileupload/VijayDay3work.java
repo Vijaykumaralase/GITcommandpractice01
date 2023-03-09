@@ -10,5 +10,9 @@ public class VijayDay3work {
 	{
 		System.out.println("This work is done by Vijay Next day 09-03-2023 8:15 am");
 	}
+	public void Sprint01work()
+	{
+		System.out.println("This work is done by Vijay on sprint 01 09-03-2023 5:15 am");
+	}
 
 }
