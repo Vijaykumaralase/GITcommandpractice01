@@ -11,5 +11,9 @@ public class SnehaSeconddaywork {
 	{
 		System.out.println("This work is done by sneha Next day 09-03-2023 8:03 am");
 	}
+	public void SnehaDay03Sprint01()
+	{
+		System.out.println("This work is done by sneha on Sprint 1 branch 09-03-2023 5:22 pm");
+	}
 
 }
